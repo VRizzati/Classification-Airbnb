@@ -1,7 +1,5 @@
 # AIRBNB TOP LISTINGS
-Valentina Rizzati <br/>
-June 10, 2021 <br/>
-Metis: Classification <br/>
+
 
 ---
 
